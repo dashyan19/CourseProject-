@@ -1,0 +1,5 @@
+﻿  CWlioaviz.cpp
+C:\Users\Дарья\Desktop\лаб\CWlioaviz\CWlioaviz.cpp(32,8): warning C4101: matrix: неиспользованная локальная переменная
+C:\Users\Дарья\Desktop\лаб\CWlioaviz\CWlioaviz.cpp(29,22): warning C4101: zero: неиспользованная локальная переменная
+C:\Users\Дарья\Desktop\лаб\CWlioaviz\CWlioaviz.cpp(297,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CWlioaviz.vcxproj -> C:\Users\Дарья\Desktop\лаб\CWlioaviz\Debug\CWlioaviz.exe
